@@ -1,3 +1,12 @@
 # nyaralas
 Úti cél kitalálása
-|Anglia| Big Ben |
+
+| helyszín     | miért                   |
+|--------------|-------------------------|
+| Róma         | Colosseum, Pizza        |
+| Moszkva      | Hardbass                |
+| Berlin       | berlini fal             |
+| rOMÁNIA      | atombomba kipróbálása   |
+| Erdély       | visszafoglalás          |
+| Ausztria     | Hegyek                  |
+|Anglia        | Big Ben                 |
