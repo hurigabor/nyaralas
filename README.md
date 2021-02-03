@@ -1,3 +1,11 @@
 # nyaralas
 Úti cél kitalálása
- | Ausztria | Hegyek  |
+
+| helyszín     | miért                   |
+|--------------|-------------------------|
+| Róma         | Colosseum, Pizza        |
+| Moszkva      | Hardbass                |
+| Berlin       | berlini fal             |
+| rOMÁNIA      | atombomba kipróbálása   |
+| Erdély       | visszafoglalás          |
+| Ausztria     | Hegyek                  |
