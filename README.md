@@ -9,3 +9,4 @@
 | rOMÁNIA      | atombomba kipróbálása   |
 | Erdély       | visszafoglalás          |
 | Ausztria     | Hegyek                  |
+| USA          | Fehérház                | 
