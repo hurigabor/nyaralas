@@ -10,3 +10,4 @@
 | Erdély       | visszafoglalás          |
 | Ausztria     | Hegyek                  |
 |Anglia        | Big Ben                 |
+|Franciaország | Párizs                  |
