@@ -3,3 +3,4 @@
 | helyszín     | miért                   |
 |--------------|-------------------------|
 | Róma         | Colosseum, Pizza        |
+| Berlin       | berlini fal             |
