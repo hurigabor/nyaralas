@@ -10,3 +10,5 @@
 | Erdély       | visszafoglalás          |
 | Ausztria     | Hegyek                  |
 | USA          | Fehérház                | 
+|Anglia        | Big Ben                 |
+
