@@ -1,3 +1,11 @@
 # nyaralas
 Úti cél kitalálása
-|Erdély|visszafoglalás|
+
+
+
+| helyszín     | miért                   |
+|--------------|-------------------------|
+| Róma         | Colosseum, Pizza        |
+| Berlin       | berlini fal             |
+| Erdély       | visszafoglalás          |
+
